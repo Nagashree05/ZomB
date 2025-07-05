@@ -2,14 +2,6 @@
 
 A simple browser-based zombie shooter built with HTML, CSS, and JavaScript.
 
-## How to Play
-
-- **Move:** WASD or Arrow keys
-- **Aim:** Mouse
-- **Shoot:** Mouse click (hold for rapid fire with some weapons)
-- **Reload:** R
-- **Restart:** Enter or Space after death
-
 ## Features
 
 - **Top-down shooter**: Control a survivor and shoot waves of zombies.
@@ -17,6 +9,14 @@ A simple browser-based zombie shooter built with HTML, CSS, and JavaScript.
 - **Hardcore mode**: Survive long enough to enter a more challenging mode with special weapons.
 - **Responsive canvas**: The game scales to your browser window.
 - **Animated graphics**: Zombies, player, and environment are all rendered dynamically.
+
+## How to Play
+
+- **Move:** WASD or Arrow keys
+- **Aim:** Mouse
+- **Shoot:** Mouse click (hold for rapid fire with some weapons)
+- **Reload:** R
+- **Restart:** Enter or Space after death
 
 **Special weapons and modes are unlocked as you kill more zombies.**
 
